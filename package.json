@@ -252,7 +252,7 @@
         "nedb": "^1.8.0",
         "react": "^16.6.3",
         "react-dom": "^16.6.3",
-        "react-hot-loader": "^4.3.12",
+        "react-hot-loader": "^4.13.0",
         "react-redux": "^5.1.1",
         "react-resize-detector": "^4.0.5",
         "react-router": "^4.3.1",
